@@ -5,7 +5,7 @@
 
 
 def print_hi(name):
-    # 12345678 Use a breakpoint in the code line below to debug your script.
+    # 123456789 Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
